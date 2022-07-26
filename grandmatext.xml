@@ -1,3 +1,2 @@
-<Response>
-  <Say voice="woman" language="fr-FR">Bonjour, prends tes esti de pillules!</Say>
-</Response>
+<?xml version="1.0" encoding="UTF-8"?>
+<Response><Say voice="woman" language="fr-FR">Bonjour grand-maman, consome tes esti de pillules</Say></Response>
